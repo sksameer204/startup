@@ -1,0 +1,34 @@
+{
+  "socialIcons": [
+    {
+      "url": "/",
+      "title": "instagram",
+      "icon": "instagram"
+    },
+    {
+      "url": "/",
+      "title": "twitter",
+      "icon": "twitter"
+    },
+    {
+      "url": "/",
+      "title": "github",
+      "icon": "github"
+    },
+    {
+      "title": "medium",
+      "icon": "medium",
+      "url": "/"
+    },
+    {
+      "icon": "rss",
+      "title": "rss",
+      "url": "/"
+    },
+    {
+      "title": "pinterest",
+      "url": "/",
+      "icon": "pinterest"
+    }
+  ]
+}

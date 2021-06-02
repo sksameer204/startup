@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "title": "About",
+      "url": "/about"
+    },
+    {
+      "title": "Features",
+      "url": "/features",
+      "submenu": []
+    },
+    {
+      "title": "Pricing",
+      "url": "/price",
+      "submenu": []
+    },
+    {
+      "title": "Contact",
+      "url": "/contact"
+    }
+  ]
+}

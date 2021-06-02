@@ -1,0 +1,23 @@
+{
+  "footerBg": "#f9f9f9",
+  "primaryColor": "#000",
+  "featureTitleColor": "#000e40",
+  "tagColor": "#4e4e4e",
+  "titleColor": "#000e40",
+  "blogTitleColor": "#000e40",
+  "background": "#ffffff",
+  "SecondaryColor": "#19468e",
+  "headerBg": "#fff",
+  "featuredBg": "#fffee9",
+  "testimonials": {
+    "circleColor": "#deecff",
+    "imageTop": "#92f4b4",
+    "imageBottom": "#97eaf2"
+  },
+  "textColor": "#423c3c",
+  "borderColor": "#d4d4d4",
+  "buttonBg": "#c7dfff",
+  "primaryBgColor": "#ffffff",
+  "menuBgColor": "#efefef",
+  "titleHoverColor": "#19468e"
+}

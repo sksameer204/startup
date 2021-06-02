@@ -1,0 +1,12 @@
+{
+  "ga": "32423",
+  "convertkit": {
+    "convertkitVisibility": "YES",
+    "formId": 2342421,
+    "submitText": "Get Started"
+  },
+  "disqus": {
+    "disqusVisibility": "YES",
+    "disqusUrl": "foundation-3"
+  }
+}

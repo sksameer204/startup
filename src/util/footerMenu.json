@@ -1,0 +1,89 @@
+{
+  "footerLinks1": [
+    {
+      "title": "Home",
+      "url": "/"
+    },
+    {
+      "title": "About",
+      "url": "/about"
+    },
+    {
+      "title": "Features",
+      "url": "/features"
+    },
+    {
+      "title": "Blog",
+      "url": "/blog"
+    },
+    {
+      "title": "Contact",
+      "url": "/contact"
+    }
+  ],
+  "footerLinks2": [
+    {
+      "title": "Pricing",
+      "url": "/price"
+    },
+    {
+      "title": "Faq",
+      "url": "/faq"
+    },
+    {
+      "title": "Sign in",
+      "url": "/signin"
+    }
+  ],
+  "footerLinks3": [
+    {
+      "title": "First link",
+      "url": "/"
+    },
+    {
+      "title": "Second link",
+      "url": "/"
+    },
+    {
+      "title": "Third link",
+      "url": "/"
+    },
+    {
+      "title": "Fouth link",
+      "url": "/"
+    }
+  ],
+  "footerLinks4": [
+    {
+      "title": "First link",
+      "url": "/"
+    },
+    {
+      "title": "Second link",
+      "url": "/"
+    },
+    {
+      "title": "Third link",
+      "url": "/"
+    }
+  ],
+  "footerLinks5": [
+    {
+      "title": "First link",
+      "url": "/"
+    },
+    {
+      "title": "Second link",
+      "url": "/"
+    }
+  ],
+  "appLinks": {
+    "appleLink": "/",
+    "androidLink": "/"
+  },
+  "title1": "Menu",
+  "title2": "Other links",
+  "title3": "Category",
+  "title4": "Category",
+  "title5": "Category"
+}

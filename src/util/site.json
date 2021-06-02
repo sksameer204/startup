@@ -1,0 +1,16 @@
+{
+  "meta": {
+    "iconimage": "../../../static/assets/frame-2-4-.png",
+    "siteUrl": "https://foundation.stackrole.com",
+    "showLogo": true,
+    "twitterUsername": "@stackrole",
+    "darkModeVisibility": "YES",
+    "logoImage": "../../../static/assets/frame-2-4-.png",
+    "titleTemplate": "%s",
+    "title": "Start Fiyut",
+    "image": "../../../static/assets/frame-2-4-.png",
+    "showTitle": false,
+    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole"
+  },
+  "ga": "UA-XXXXXXXXX-X"
+}
